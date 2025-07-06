@@ -5,7 +5,7 @@ I'm an AI/ML engineer, but when I am off I am more of a game developer, music ar
 **Game Development & Music**
 *   I mostly work on games in my off time. I'm probably best known as the "main programmer" on [Dragon Spirits](https://store.steampowered.com/app/1074190/Dragon_Spirits/).
 *   I won the Gemini API developer [competition](https://ai.google.dev/competition#w-9) with my roguelike deckbuilder, Pen Apple.
-*   I also had a stunt arranging Touhou Project music for the [Mad Hatter Tea](https://thbwiki.cc/LBQ) circle. You can find [some of my old arrangements here](https://ceremonial.itch.io/horror-prelude).
+*   I also had a stunt arranging Touhou Project music for the [Mad Hatter Tea](https://thbwiki.cc/LBQ) circle. I also used to sell [music](https://ceremonial.itch.io/horror-prelude) for the RPG Maker sphere.
 *   I was once called a "paragon" by the Haskell IRC for my library [data-emoticons](https://hackage.haskell.org/package/data-emoticons)
 *   I'm a proud supporter of indie games!
 
