@@ -18,4 +18,6 @@ This quote about my game, Pen Apple, captures my thoughts well:
 
 **Professional Life & Education**
 *   **Day Job:** I'm an applied type theorist gone haywire for applied ML. Everything is a bit better with type theory :sparkles:.
-*   **Education:** PhD in Computer Science from UIUC (2024) & BS in Computer Science from UNC (2020).
+*   **Education:** PhD in Computer Science from UIUC (2024) & BS in Computer Science[^1] from UNC (2020).
+
+[^1]: Actually with a BS in maths too.
