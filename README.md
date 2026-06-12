@@ -20,7 +20,7 @@ Best Game at Google's Gemini API Developer Competition.
 <br>
 
 For the longest time at xAI I larped as **Ushiromiya Lion** (右代宮 理御), went by
-[`ushiromiya-lion`](https://github.com/ushiromiya-lion), and appear in the
+my alt account [`@ushiromiya-lion`](https://github.com/ushiromiya-lion), and appear in the
 [XGrammar 2.0](https://blog.mlc.ai/2026/05/04/xgrammar-2-fast-customizable-structured-generation)
 acknowledgements under that name. In memory of the tragic character.
 
